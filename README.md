@@ -3,7 +3,7 @@
 A deep learning-based **Artificial Neural Network (ANN)** model to predict **customer churn** using various customer attributes.  
 Deployed with **Streamlit** for an interactive dashboard. 🚀  
 
----
+---------->>>>>>https://ann-churn-prediction-wosqinappe9c6yv7hdjhgd.streamlit.app/
 
 ## ✨ Features  
 ✅ **Customer churn prediction** using ANN 🤖  
